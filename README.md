@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shrutiwire
-- 👀 I’m interested in creating economic value for brands through marketing. For me, the 3Cs, 4Ps and 5Is all revolve around clarity, curiosity and creativity.  
-- 🌱 I’m currently learning Generative AI, its effect on socio-cultural dynamic and social interactions...
-- 💞️ I’m looking to collaborate on Gen AI projects...
+- 👀 I’m researching the impact of longitudinal symptom tracking with better health outcomes.   
+- 🌱 I’m currently looking to work with Physicians/Researchers wanting to build together using ML/Generative AI in womens' health.
 - 📫 Reach me on https://www.linkedin.com/in/shrutiguptadigital1/...
 
 
